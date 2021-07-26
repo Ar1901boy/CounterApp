@@ -1,0 +1,47 @@
+body
+{
+    background-color:blue;
+}
+.start {
+    text-align: center;
+}
+
+#count
+{
+    font-size: 80px;
+    margin-top:30px;
+}
+#zero
+{
+    font-size: 100px;
+     margin-top:50px;
+    color:white;
+}
+.collect
+{
+    margin-top: -40px;
+}
+#minus
+{
+    padding:15px;
+    border-radius: 10px;
+    border:5px solid black;
+    color:white;
+    background-color: red;
+}
+#reset
+{
+    padding:15px;
+    border-radius: 10px;
+    border:5px solid yellow;
+    color:white;
+    background-color: black;
+}
+#plus
+{
+   padding:15px;
+    border-radius: 10px;
+    border:5px solid black;
+    color:white;
+    background-color: green;
+}
